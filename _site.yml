@@ -1,0 +1,14 @@
+name: "."
+title: "ALL ABOUT RAMADAN!"
+description: |
+  ALL ABOUT RAMADAN!
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "about ramadan?"
+      href: about_ramadan?.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
