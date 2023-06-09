@@ -2,22 +2,19 @@
 title: "All About Ramadan"
 image: "Images/ramadan1.jpg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "haiqa@greenoak.bham.sch.uk"
 output:
   postcards::solana
 site: distill::distill_website
 ---
  
-## Bio
+## Information
 
 This website is all you need to know about Ramadan. It includes many different interesting facts and more. Ramadan is a holy month of fasting, introspection and prayer for Muslims, the followers of Islam. Ramadan teaches patience and humility. Hopefully after seeing this website you understand what ramadan is and abit more about it (if you dont already know).
 
-## Education
 `r emo::ji("alarm")`
