@@ -1,2 +1,2 @@
-# ramaDAMNNNNN
-all you need to know about ramadan. aka ramaDAMNNNNNNNNNNNNNNNN
+# ramadan
+all you need to know about ramadan.
